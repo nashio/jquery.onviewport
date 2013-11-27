@@ -1,5 +1,5 @@
 // onViewPort
-// Execute a function when a certain element is in the viewport
+// Execute a function when a certain element is within the boundries of the viewport
 // http://github.com/nashio
 
 (function(w){ 
