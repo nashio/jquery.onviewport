@@ -1,7 +1,7 @@
 onviewport
 ==========
 
-jQuery plugin: executes a callback when element is on viewport
+jQuery plugin that executes a callback when an element is visible inside the viewport
 
 ----
 Example
