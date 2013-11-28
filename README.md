@@ -6,7 +6,7 @@ jQuery plugin that executes a callback when an element is visible inside the vie
 ----
 Example
 <pre>
-$("#target").onviewport(function(){
+$("#target").onViewPort(function(){
   // do this
 });
 </pre>
