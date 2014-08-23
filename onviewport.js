@@ -1,6 +1,7 @@
-// onViewPort
+// onViewPort (c) 2013, Ignacio Chavez. http://github.com/nashio
 // Executes a function when a certain element is within the boundries of the viewport
-// http://github.com/nashio...
+
+
 (function(w){ 
   $.fn.onViewPort = function(options, callback) {
     var settings = $.extend({}, options );
